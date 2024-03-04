@@ -7,6 +7,10 @@ body {
   font-style: normal;
 }
 
+footer {
+background-color: #1c6474;
+}
+
 img {
   width: 100%;
   height: auto;
