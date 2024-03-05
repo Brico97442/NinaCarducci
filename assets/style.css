@@ -10,12 +10,12 @@ body {
 footer {
 background-color: #1c6474;
 padding: 20px;
-color: #000;
+color: #fff
 }
 
 footer a {
   text-decoration: none;
-  color: #000;
+  color: #fff;
 }
 
 img {
